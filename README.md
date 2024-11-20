@@ -2,12 +2,11 @@
 
 Angular based frontend views for my project
 
-# Used versions 
-# node-v20.18.0-x64
-# @angular/cli: "^18.2.0"
+## Used versions 
+node-v20.18.0-x64
+@angular/cli: "^18.2.0"
 
 
-# FrontEnd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
 
